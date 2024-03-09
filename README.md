@@ -1,4 +1,4 @@
-# Power BI Dashboard😎
+# Power BI Dashboard😎😎
 •✌️Developed a strong Power BI dashboard of a Product Based Company (Hypothetical) With surveyed data set And Apply certain Outlier and Normalization Technique to make data suitable for Visualization.
 
 
